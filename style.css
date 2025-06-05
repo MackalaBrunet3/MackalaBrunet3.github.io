@@ -58,6 +58,8 @@ main {
 
 .sidebar-img {
     width: 450px;
+    border-style: groove;
+    border-width: 5px;
 }
 
 .content {
