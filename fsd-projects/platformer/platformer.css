@@ -3,10 +3,10 @@ body {
 }
 
 canvas {
-  background-image: url(https://i.pinimg.com/736x/a3/4f/2c/a34f2cc237431e4955f4757f5cdda90b.jpg); 
+  background-image: url(https://i.pinimg.com/736x/c6/c2/0c/c6c20cc31125c25f14c80837939e3236.jpg); 
   margin: auto;
   background-repeat: no-repeat;
-  background-size: 1000px, 1000px, auto;
+  background-size: cover;
 }
 
 img {
