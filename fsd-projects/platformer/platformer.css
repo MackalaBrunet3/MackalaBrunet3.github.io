@@ -3,8 +3,8 @@ body {
 }
 
 canvas {
- background-image: url(https://www.usatoday.com/gcdn/presto/2022/08/26/USAT/ea1a8b57-ae09-4f0b-80bd-5987e0014622-Blackpink.jpg?crop=1913,1435,x67,y0); 
-  margin: 20px;
+  background-image: url(https://www.usatoday.com/gcdn/presto/2022/08/26/USAT/ea1a8b57-ae09-4f0b-80bd-5987e0014622-Blackpink.jpg?crop=1913,1435,x67,y0); 
+  margin: auto;
 }
 
 img {
