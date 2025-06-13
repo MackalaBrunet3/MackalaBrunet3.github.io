@@ -82,9 +82,9 @@
 				moveBoxTo(positionX); // Moves the box to the far right edge
 				positionX = positionX + speed;
 				if (positionX > boardWidth){
-					speed = speed * -1;
+					speed *= -1;;
 				}
-				if (position < 0){
+				else if (position < 0){
 					speed *= -1;
 				}
 
