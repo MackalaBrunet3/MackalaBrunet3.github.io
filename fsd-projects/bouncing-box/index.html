@@ -81,6 +81,9 @@
 				moveBoxTo(200); // Moves the box to the x-position 300
 				moveBoxTo(positionX); // Moves the box to the far right edge
 				positionX = positionX + speed;
+				if (positionX > boardWidth){
+					speed = speed * -1;
+				}
 
 			
 			};
