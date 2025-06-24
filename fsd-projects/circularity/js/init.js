@@ -81,6 +81,7 @@ var init = function (window) {
 
             // TODO 8 / TODO 9 : Iterate over the array
            for (var i = 0; i < circle.length; i++) {
+            circle.length[i]
 
            }
            for (let i = 0; i < numCircles; i++) {
